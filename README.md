@@ -105,3 +105,10 @@ Before running this project, ensure you have the following:
 ## Contributing
 
 Feel free to fork this repository and submit pull requests with any improvements or bug fixes!
+
+## Connect with me
+
+Feel free to connect with me on the following platforms:
+
+- [LinkedIn](https://in.linkedin.com/in/dev-vrat-pathak-aa6570176) 
+- [GitHub](https://github.com/dev1508)
