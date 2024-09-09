@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	searching_string := to_search[2]
+	searching_string := to_search[0]
 	checking_website := website_to_check[0]
 
 	hub := "http://127.0.0.1:9515/wd/hub"

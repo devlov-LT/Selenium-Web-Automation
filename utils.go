@@ -6,15 +6,15 @@ import (
 )
 
 var (
+	// mention what to act
 	to_search = []string{
 		"Selenium WebDriver",
 		"deepika padukone",
-		"sanchit agarwal",
 	}
 
+	// mention which site to open for testing
 	website_to_check = []string{
 		"https://www.google.com",
-		"https://www.cashfree.com/customers",
 	}
 )
 
